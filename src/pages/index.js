@@ -87,13 +87,13 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Pelajari Hak Pejalan Kaki 🚶
+            Hak Pejalan Kaki
           </Link>
           <span className="margin-left--md"></span>
           <Link
             className="button button--warning button--lg"
             to="/blog">
-            Baca Jurnal Lapangan 📝
+            Jurnal Lapangan
           </Link>
         </div>
       </div>
