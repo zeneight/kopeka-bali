@@ -1,5 +1,8 @@
 {
   "label": "💡 Studi Kasus",
   "position": 4,
-  "link": { "type": "generated-index" }
+  "link": { 
+    "type": "generated-index",
+    "slug": "/category/studi-kasus"
+  }
 }

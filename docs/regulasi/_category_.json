@@ -1,5 +1,8 @@
 {
   "label": "📜 Regulasi & Aturan",
   "position": 2,
-  "link": { "type": "generated-index" }
+  "link": { 
+    "type": "generated-index",
+    "slug": "/category/regulasi-aturan" 
+  }
 }

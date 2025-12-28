@@ -93,11 +93,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Pustaka Kota', // Nama keren untuk "Docs"
+            label: 'Pustaka Kota', // docs
           },
-          {to: '/blog', label: 'Jurnal Lapangan', position: 'left'}, // Nama keren untuk "Blog"
+          {to: '/blog', label: 'Jurnal Lapangan', position: 'left'}, // blog
           {
-            to: '/peta', // Halaman teaser GIS (buat file src/pages/peta.js nanti)
+            to: '/peta', // Halaman teaser GIS
             label: 'Peta Masalah (Beta)',
             position: 'left',
             className: 'button button--outline button--primary button--sm margin-left--md', // Styling tombol
