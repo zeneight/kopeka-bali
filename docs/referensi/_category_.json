@@ -1,10 +1,8 @@
 {
   "label": "📜 Referensi & Guides",
-  "position": 5,
+  "position": 2,
   "link": { 
-    "type": "generated-index",
-    "description": "Kumpulan panduan teknis, jurnal, dan standar tata kelola kota untuk pejalan kaki.",
-    "keywords": ["guides"],
-    "slug": "/category/referensi"
+    "type": "doc",
+    "id": "index"
   }
 }

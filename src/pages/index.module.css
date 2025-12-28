@@ -45,4 +45,23 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1.5rem; /* Memberikan jarak antar tombol secara otomatis */
+  margin-top: 2rem;
+}
+
+/* Tambahkan Media Query untuk Mobile */
+@media screen and (max-width: 768px) {
+  .buttons {
+    flex-direction: column; /* Ubah jadi tumpuk vertikal */
+    width: 100%;
+    padding: 0 1rem;
+  }
+
+  /* Opsional: Agar tombol terlihat penuh dan rapi di HP */
+  .buttons a {
+    width: 100%;
+    max-width: 350px; /* Batasi agar tidak terlalu lebar di tablet */
+    display: block;
+    text-align: center;
+  }
 }

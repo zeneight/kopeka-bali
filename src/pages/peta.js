@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import styles from './index.module.css';
 
 export default function Peta() {
   return (
@@ -32,7 +33,8 @@ export default function Peta() {
 
         <p>Anda developer? Mau bantu kontribusi kode?</p>
         
-        <div style={{display: 'flex', gap: '10px'}}>
+        
+        <div className={styles.buttons}>
              <Link
                 className="button button--primary button--lg"
                 to="/">

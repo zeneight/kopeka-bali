@@ -87,13 +87,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Hak Pejalan Kaki
+            Siapa Kami? 🚶
           </Link>
-          <span className="margin-left--md"></span>
+          
+          {/* Hapus SPAN di sini, CSS 'gap' yang akan menanganinya */}
+          
           <Link
             className="button button--warning button--lg"
             to="/blog">
-            Jurnal Lapangan
+            Jurnal Lapangan 📝
           </Link>
         </div>
       </div>
