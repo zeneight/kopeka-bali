@@ -1,0 +1,48 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+ /* src/pages/index.module.css */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* --- Tambahkan Bagian Ini --- */
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 60px;        /* Ukuran tinggi ikon */
+  width: 60px;         /* Ukuran lebar ikon */
+  margin-bottom: 1rem; /* Jarak antara ikon dan judul */
+  color: var(--ifm-color-primary); /* Mengikuti warna tema utama website */
+}
+
+/* Opsional: Efek Hover biar interaktif */
+.featureSvg:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+  color: var(--ifm-color-primary-darker);
+}
+/* --------------------------- */
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
