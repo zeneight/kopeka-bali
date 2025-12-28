@@ -119,13 +119,13 @@ const config = {
               { label: 'Gabung Komunitas', href: 'https://chat.whatsapp.com/...' },
             ],
           },
-          {
-            title: 'Edukasi',
-            items: [
-              { label: 'Hak Pejalan Kaki', to: '/docs/regulasi/uu-lalu-lintas' },
-              { label: 'Standar Infrastruktur', to: '/docs/infrastruktur/standar-trotoar' },
-            ],
-          },
+          // {
+          //   title: 'Edukasi',
+          //   items: [
+          //     { label: 'Hak Pejalan Kaki', to: '/docs/regulasi/uu-lalu-lintas' },
+          //     { label: 'Standar Infrastruktur', to: '/docs/infrastruktur/standar-trotoar' },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Koalisi Pejalan Kaki Bali. Built with Docusaurus.`,
       },
