@@ -26,8 +26,8 @@ Kami hadir untuk:
 
 Dokumentasi ini disusun untuk memberdayakan Anda dengan pengetahuan:
 
-* **[Regulasi & Hak](/docs/category/regulasi)**: Apa kata hukum tentang hak Anda?
-* **[Infrastruktur](/docs/category/infrastruktur)**: Bagaimana ciri trotoar yang standar?
+* **[Regulasi & Hak](/docs/category/regulasi-aturan)**: Apa kata hukum tentang hak Anda?
+* **[Infrastruktur](/docs/category/standar-infrastruktur)**: Bagaimana ciri trotoar yang standar?
 * **[Studi Kasus](/docs/category/studi-kasus)**: Contoh sukses seperti Sanur (Bupda Intaran).
 * **[Referensi & Guides](/docs/category/referensi/)**: Kumpulan panduan teknis, jurnal, dan standar tata kelola kota untuk pejalan kaki.
 
