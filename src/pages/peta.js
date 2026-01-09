@@ -17,11 +17,12 @@ export default function Peta() {
           padding: '20px',
         }}>
         <h1>🗺️ Peta Masalah (Alpha Ver.)</h1>
+        <img src="/img/kopeka_gis.png" alt="Peta Masalah Screenshot" style={{maxWidth: '100%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)'}} />
         
         <div style={{margin: '20px 0', maxWidth: '600px'}}>
           <p>
-            Saya sedang membangun sistem <strong>GIS (Geographic Information System)</strong> sederhana. 
-            Nantinya, halaman ini akan memuat peta interaktif Bali.
+            Kami sedang membangun sistem <strong>GIS (Geographic Information System)</strong> sederhana. 
+            Nantinya, halaman ini akan memuat peta interaktif Kota Denpasar.
           </p>
           <div className="alert alert--info" role="alert">
             <strong>Fitur yang sedang didevelop:</strong><br/>
@@ -41,8 +42,8 @@ export default function Peta() {
         <div className={styles.buttons}>
              <Link
                 className="button button--primary button--lg"
-                to="/">
-                Kembali ke Beranda
+                to="https://zeneight.github.io/kopekabali-gis">
+                Akses Peta (Alpha Ver/Prototype)
             </Link>
             <Link
                 className="button button--secondary button--lg"
