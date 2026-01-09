@@ -25,9 +25,13 @@ export default function Peta() {
           </p>
           <div className="alert alert--info" role="alert">
             <strong>Fitur yang sedang didevelop:</strong><br/>
-            📍 Input lokasi kerusakan trotoar.<br/>
-            🟢 Rute aman bersepeda & jalan kaki.<br/>
-            📊 Heatmap kepadatan pejalan kaki.
+            - Ruas jalan di Denpasar.<br/>
+            - Input lokasi kerusakan trotoar.<br/>
+            - Input lokasi fasilitas publik (toilet, tempat sampah, halte, taman, plaza, dll).<br/>
+            - Jalur aman bersepeda & wilayah pedestrian friendly.<br/>
+            - (planned) Heatmap kepadatan pejalan kaki.<br/>
+            - (planned) Jalur commuting pejalan kaki.<br/>
+
           </div>
         </div>
 
@@ -42,7 +46,7 @@ export default function Peta() {
             </Link>
             <Link
                 className="button button--secondary button--lg"
-                href="https://github.com/username-anda/repo-gis">
+                href="https://github.com/zeneight/kopekabali-gis">
                 Lihat di GitHub
             </Link>
         </div>
