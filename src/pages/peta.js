@@ -11,7 +11,7 @@ export default function Peta() {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          height: '100vh',
+          // height: '100vh',
           flexDirection: 'column',
           textAlign: 'center',
           padding: '20px',
